@@ -22,3 +22,5 @@ dependencyResolutionManagement {
 rootProject.name = "digitalcloset3"
 include(":app")
 include(":domain")
+include(":data")
+include(":feature")
